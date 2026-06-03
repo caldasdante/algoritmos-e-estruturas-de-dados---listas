@@ -1,1 +1,2 @@
-# algoritmos-e-estruturas-de-dados---listas
+# algoritmos e estrutura de dados
+- listas de exercicios 
